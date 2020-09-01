@@ -350,3 +350,4 @@ MigrationBackup/
 .ionide/
 # Pycharm configuration files
 *.idea/
+*venv/
